@@ -29,3 +29,9 @@ class AppTheme {
     ),
   );
 }
+
+/// Утилитный класс для единых цветов интерфейса
+class AppColors {
+  // Цвет фона для иконок категорий (пример)
+  static const Color categoryBg = Color(0xFFF6EEF9);
+}
